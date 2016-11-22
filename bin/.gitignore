@@ -1,2 +1,4 @@
 *.class
 *.tokens
+.classpath
+.bat
