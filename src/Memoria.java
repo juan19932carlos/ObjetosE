@@ -1,6 +1,7 @@
 import java.util.HashMap;
 
-public class Memoria {
+public class Memoria 
+{
 	
 	public static HashMap<String, Double> variables;
 	
