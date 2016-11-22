@@ -1,5 +1,5 @@
 grammar Objetosespanol;
-
+//hola
 programa: 
     ( declarar_clase )+;
 declarar_clase: 
